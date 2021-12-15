@@ -1,2 +1,3 @@
 # deno-deploy-upstash-redis-discord-slashes
- Slash commands deployed to Deno Deploy utilizing Upstash Redis
+
+Example of deploying slash commands to Deno Deploy utilizing Upstash Redis
